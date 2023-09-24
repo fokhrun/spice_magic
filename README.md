@@ -52,5 +52,14 @@ www.spicemagic.com is a web-based restaurant booking System for the restuarant n
 - The code should be free of any passwords or security-sensitive information to the repository and the hosting platform
 - The deployment process should be documented
 
+# Development & Testing
+
+## Local Development Environment
+
+Make sure [Python3](https://www.python.org/downloads/), [Pip3](https://pip.pypa.io/en/stable/installation/), and [MySQL](https://dev.mysql.com/downloads/installer/) is installed in your local development environment. In the terminal, run the following commands:
+1. `pip install virtualenv`
+2. `python3 -m venv env_local`
+3. `.\env\Scripts\activate`
+4. `pip install Flask=2.3.3`
 
 
