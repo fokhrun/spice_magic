@@ -16,13 +16,11 @@ www.spicemagic.com is a web-based restaurant booking System for the restuarant n
 
 ## Technical Requirements
 - The site should be a full-stack website that follows an MVC framework with the following tech stack
-    - HTML 
-    - CSS 
-     - JavaScript 
-    - Python+Django
-    - MySQL
-
-2.3	All changes to the data should be notified to relevant user
+   - HTML 
+   - CSS
+   - JavaScript 
+   - Python+Django
+   - MySQL
 
 - It implement application features and business logic to manage, query and manipulate data to handle reservetions
     - It implement a data model for users to create, locate, display, edit and delete records related to reservations
