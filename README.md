@@ -19,7 +19,8 @@ www.spicemagic.com is a web-based restaurant booking System for the restuarant n
    - HTML 
    - CSS
    - JavaScript 
-   - Python+Django
+   - Python
+        - Flask
    - MySQL
 
 - It implement application features and business logic to manage, query and manipulate data to handle reservetions
